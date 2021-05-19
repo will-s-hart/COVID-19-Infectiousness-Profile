@@ -1,6 +1,6 @@
 # COVID-19-Infectiousness-Profile
 
-MATLAB code accompanying the publication "High infectiousness immediately before COVID-19 symptom onset highlights the importance of continued contact tracing" (available at https://doi.org/10.7554/eLife.65534).
+MATLAB code accompanying: Hart WS, Maini PK, Thompson RN. 2021. "High infectiousness immediately before COVID-19 symptom onset highlights the importance of continued contact tracing". eLife 10:e65534. DOI: https://doi.org/10.7554/eLife.65534.
 
 Some scripts require the Chebfun package to run (freely available at https://www.chebfun.org/download/).
 
